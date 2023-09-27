@@ -21,7 +21,7 @@ Customer Risk Analysis and Churn Dashboard
   4. Data Processing - Created explicit measures using DAX and added calculated, conditional columns where necessary.
   5. Data Visualization and Report Building - Developed a fully interactive dashboard with dedicated customer risk analysis, a welcome         page, and a churn dashboard. Various visuals, such as gauges, KPI cards, and treemaps, were included.
 
-  - Insights:
+- Insights:
     1. Enhance technical support availability for Fiber Optic customers and reduce the average number of technical support tickets per           customer to 0.5.
     2. Boost sales of both 1-year and 2-year contracts by 5% each.
     3. Achieve an annual growth of 5% in the adoption of automatic payment methods.
